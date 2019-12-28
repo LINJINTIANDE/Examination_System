@@ -21,4 +21,4 @@
 ## 技术
 Spring、SpringMVC、Mybati、book、Bootstrap、jQuery
 ## 开发环境
-操作系统：Windows 10 编程语言: Java 8 开发工具: Ecli、Navicat 项目构建: Maven 3.3.9 服务器：Tomcat 8.5 数据库: MySQL
+操作系统：Windows 10 编程语言: Java 8 开发工具: Eclipse、Navicat 项目构建: Maven 3.3.9 服务器：Tomcat 8.5 数据库: MySQL
